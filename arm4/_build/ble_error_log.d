@@ -1,0 +1,10 @@
+.\_build\ble_error_log.o: ..\components\ble\ble_error_log\ble_error_log.c
+.\_build\ble_error_log.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\_build\ble_error_log.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\ble_error_log.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\ble_error_log.o: ..\components\device\nrf51.h
+.\_build\ble_error_log.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\_build\ble_error_log.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\_build\ble_error_log.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\_build\ble_error_log.o: ..\components\toolchain\system_nrf51.h
+.\_build\ble_error_log.o: ..\components\ble\ble_error_log\ble_error_log.h
